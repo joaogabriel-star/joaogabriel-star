@@ -41,9 +41,6 @@ Estudante de Engenharia da Computação (5º semestre) na IESB, em Brasília. At
 **[Sistema Heavenly](https://github.com/joaogabriel-star/heavely-frontend-novo)** — Plataforma de gestão de ledores e fiscais para a Heavenly International School. Autenticação segura com controle de acesso por perfil, QR Code para controle de presença em tempo real e geração automatizada de relatórios financeiros. Em produção.
 `React` `ASP.NET Core` `PostgreSQL` · [demo](https://heavely-frontend-novo.vercel.app)
 
-**Na Sala do Marcão** *(repositório privado)* — Plataforma web para um coordenador educacional: centraliza conteúdo (YouTube, Instagram, blog) e gerencia agendamento de consultorias, com autenticação JWT e integrações via WhatsApp e e-mail transacional.
-`React` `TypeScript` `ASP.NET Core` `PostgreSQL`
-
 **CPX** *(repositório privado)* — Sistema de gestão de freelancers para um espaço de eventos, em desenvolvimento.
 `TypeScript` `C#`
 
