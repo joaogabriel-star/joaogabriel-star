@@ -4,7 +4,7 @@
 
 Estudante de Engenharia da Computação (5º semestre) na IESB, em Brasília. Atuo como Analista de Dados em órgãos federais e, por iniciativa própria, desenvolvo sistemas web completos — do levantamento de requisitos ao deploy em produção.
 
-- 🔭 Atualmente no **Ministério da Gestão e da Inovação (MGI)**, construindo dashboards, ETLs e automações em Power BI e Power Automate.
+- 🔭 Já passei também no **Ministério da Gestão e da Inovação (MGI)**, construindo dashboards, ETLs e automações em Power BI e Power Automate.
 - 📊 Já passei também pela **ANTT** (Agência Nacional de Transportes Terrestres), monitorando indicadores operacionais e estratégicos em Power BI.
 - 💻 Como desenvolvedor full-stack, entreguei sistemas em produção com **React, C#/.NET e PostgreSQL**.
 - 📫 joaogabrielsouza706@gmail.com · [LinkedIn](https://linkedin.com/in/joao-gabriel-0109aa252)
