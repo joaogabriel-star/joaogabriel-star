@@ -1,92 +1,58 @@
-#  Joao Gabriel de Souza
+# Olá, eu sou o João Gabriel 👋
 
-**`Desenvolvedor FullStack`** e **`Desenvolvedor front-end`**
+**Analista de Dados & BI Jr.** · **Desenvolvedor Full Stack**
 
-Me chamo João Gabriel de Souza, tenho 19 anos e sou natural de Brasilia. Concluí o ensino médio no CED 104. Atualmente, estou cursando Engenharia de Computação no IESB. Sou apaixonado por tecnologia e tenho aptidão para aprender.
+Estudante de Engenharia da Computação (5º semestre) na IESB, em Brasília. Atuo como Analista de Dados em órgãos federais e, por iniciativa própria, desenvolvo sistemas web completos — do levantamento de requisitos ao deploy em produção.
+
+- 🔭 Atualmente no **Ministério da Gestão e da Inovação (MGI)**, construindo dashboards, ETLs e automações em Power BI e Power Automate.
+- 📊 Já passei também pela **ANTT** (Agência Nacional de Transportes Terrestres), monitorando indicadores operacionais e estratégicos em Power BI.
+- 💻 Como desenvolvedor full-stack, entreguei sistemas em produção com **React, C#/.NET e PostgreSQL**.
+- 📫 joaogabrielsouza706@gmail.com · [LinkedIn](https://linkedin.com/in/joao-gabriel-0109aa252)
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🛠️ Stack
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+**BI & Dados**
 
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+**Desenvolvimento**
 
-<img 
-    align="left" 
-    alt="C" 
-    title="C"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
-/>
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
+**Automação & Banco de Dados**
 
-<br/>
-<br/>
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 📊 Estatísticas
+---
+
+### 🚀 Projetos em destaque
+
+**[Sistema Heavenly](https://github.com/joaogabriel-star/heavely-frontend-novo)** — Plataforma de gestão de ledores e fiscais para a Heavenly International School. Autenticação segura com controle de acesso por perfil, QR Code para controle de presença em tempo real e geração automatizada de relatórios financeiros. Em produção.
+`React` `ASP.NET Core` `PostgreSQL` · [demo](https://heavely-frontend-novo.vercel.app)
+
+**Na Sala do Marcão** *(repositório privado)* — Plataforma web para um coordenador educacional: centraliza conteúdo (YouTube, Instagram, blog) e gerencia agendamento de consultorias, com autenticação JWT e integrações via WhatsApp e e-mail transacional.
+`React` `TypeScript` `ASP.NET Core` `PostgreSQL`
+
+**CPX** *(repositório privado)* — Sistema de gestão de freelancers para um espaço de eventos, em desenvolvimento.
+`TypeScript` `C#`
+
+---
+
+### 📈 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=joaogabriel-star&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabriel-star&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=9" 
-  />
-
+<img align="left" alt="GitHub Stats" height="165" src="https://github-readme-stats.vercel.app/api?username=joaogabriel-star&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" />
+<img align="left" alt="Top Languages" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabriel-star&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=9" />
+</p>
+<br clear="left"/>
